@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>32A4C432-CD82-4407-B40A-C4FA3A4EB8DA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JIONGJIONG</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9898013E-12AC-4275-9F06-73890EEDC63A</key>
+		<string>svn://192.168.2.250/branches/lanou5/team3/JIONGJIONG</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JIONGJIONG.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9898013E-12AC-4275-9F06-73890EEDC63A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9898013E-12AC-4275-9F06-73890EEDC63A</key>
+		<string>svn://192.168.2.250</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.2.250/branches/lanou5/team3/JIONGJIONG/JIONGJIONG.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9898013E-12AC-4275-9F06-73890EEDC63A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9898013E-12AC-4275-9F06-73890EEDC63A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JIONGJIONG</string>
+		</dict>
+	</array>
+</dict>
+</plist>

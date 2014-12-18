@@ -1,0 +1,13 @@
+//
+//  DZJLabel.h
+//  JIONGJIONG
+//
+//  Created by dongzhejia on 13-12-5.
+//  Copyright (c) 2013年 dongzhejia. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface DZJLabel : UILabel
+
+@end
